@@ -14,5 +14,13 @@
   },
   "devDependencies": {},
   "keywords": [],
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjg39/noteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zjg39/noteTaker/issues"
+  },
+  "homepage": "https://github.com/zjg39/noteTaker#readme"
 }
